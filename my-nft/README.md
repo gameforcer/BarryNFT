@@ -1,6 +1,7 @@
-# Sample Hardhat Project
+# Simple NFT minting project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project demonstrates a basic way of minting NFTs with nodeJS and Hardhat. It was made for eduction purposes only, as a college project.
+
 
 Try running some of the following tasks:
 
